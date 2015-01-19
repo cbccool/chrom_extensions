@@ -1,0 +1,14 @@
+﻿{
+  "name": "喷嚏网",
+  "description": "简单方便看喷嚏",
+  "version": "1.0.0",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+      "default_title": "简单方便看喷嚏",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
